@@ -1,0 +1,13 @@
+{
+  "name": "Tabbook",
+  "short_name": "Tabbook",
+  "description": "Your shop's ledger. Works with no signal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF3F8",
+  "theme_color": "#14284B",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
